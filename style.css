@@ -1,5 +1,10 @@
+#logo{
+    height: 100px;
+    width: 100px;
+    float: center;
+}
 body{
-    padding: 100px;
+    padding: 80px;
 }
 .bank-title{
     text-align: center;
